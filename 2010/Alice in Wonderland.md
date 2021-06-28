@@ -1,4 +1,6 @@
-  # Alice in Wonderland
+  ![alt text](https://github.com/marcelagondro/Films-TinBurton/blob/main/img/5165c728833c8.image.jpg "Github img")
+  
+ # Alice in Wonderland
 
   ## 2010
 
@@ -9,6 +11,5 @@
   - Anne Hathaway
   - Helena Bonham Carter
 
-  ### Film
-  ![alt text](https://github.com/marcelagondro/Films-TinBurton/blob/main/img/5165c728833c8.image.jpg "Github img")
+
  

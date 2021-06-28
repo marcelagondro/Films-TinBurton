@@ -1,3 +1,6 @@
+  
+  ![alt text](https://github.com/marcelagondro/Films-TinBurton/blob/main/img/Sleepy_hollow_ver2.jpg "Github img")
+  
   # Sleepy Hollow
 
   ## 1999
@@ -9,5 +12,3 @@
   - Christina Ricci
   - Miranda Richardson
 
-  ### Film
-  ![alt text](https://github.com/marcelagondro/Films-TinBurton/blob/main/img/Sleepy_hollow_ver2.jpg "Github img")

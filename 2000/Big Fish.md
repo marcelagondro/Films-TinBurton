@@ -1,3 +1,5 @@
+  ![alt text](https://github.com/marcelagondro/Films-TinBurton/blob/main/img/Big_Fish_movie_poster.png "Github img")
+  
   # Beig Fish
   
   ## 2003
@@ -9,5 +11,4 @@
   - Albert Finney
   - Billy Crudup
 
-  ### Film
-  ![alt text](https://github.com/marcelagondro/Films-TinBurton/blob/main/img/Big_Fish_movie_poster.png "Github img")
+

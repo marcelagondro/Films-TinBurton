@@ -1,4 +1,6 @@
-  # Pee-wee's Big Adventure
+ ![alt text](https://github.com/marcelagondro/Films-TinBurton/blob/main/img/Peeweebigadventure.jpg "Github img")
+ 
+ # Pee-wee's Big Adventure
 
   ## 1985
 
@@ -9,5 +11,4 @@
   - E.G. Daily
   - Mark Holton
 
-  ### Film
-  ![alt text](https://github.com/marcelagondro/Films-TinBurton/blob/main/img/Peeweebigadventure.jpg "Github img")
+ 

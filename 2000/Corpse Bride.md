@@ -1,3 +1,5 @@
+  ![alt text](https://github.com/marcelagondro/Films-TinBurton/blob/main/img/Corpse_Bride_Poster.jpg "Github img")
+  
   # Corps Bride
 
   ## 2005
@@ -9,6 +11,4 @@
   - Helena Bonham Carter
   - Emily Watson
 
-  ### Film
-  ![alt text](https://github.com/marcelagondro/Films-TinBurton/blob/main/img/Corpse_Bride_Poster.jpg "Github img")
  

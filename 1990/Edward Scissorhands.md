@@ -1,3 +1,5 @@
+  ![alt text](https://github.com/marcelagondro/Films-TinBurton/blob/main/img/Edwardscissorhandsposter.jpg "Github img")
+  
  # Edward Scissorhands
 
   ## 1990
@@ -9,5 +11,4 @@
   - Winona Ryder
   - Dianne Wiest
 
-  ### Film
-  ![alt text](https://github.com/marcelagondro/Films-TinBurton/blob/main/img/Edwardscissorhandsposter.jpg "Github img")
+

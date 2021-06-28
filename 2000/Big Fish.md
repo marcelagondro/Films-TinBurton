@@ -1,6 +1,6 @@
   ![alt text](https://github.com/marcelagondro/Films-TinBurton/blob/main/img/Big_Fish_movie_poster.png "Github img")
   
-  # Beig Fish
+  # Big Fish
   
   ## 2003
 

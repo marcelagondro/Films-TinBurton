@@ -10,5 +10,5 @@
   - Emily Watson
 
   ### Film
-  ![alt text] (https://github.com/marcelagondro/Films-TinBurton/blob/main/img/Corpse_Bride_Poster.jpg "Github img")
+  ![alt text](https://github.com/marcelagondro/Films-TinBurton/blob/main/img/Corpse_Bride_Poster.jpg "Github img")
  

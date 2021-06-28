@@ -1,3 +1,5 @@
+  ![alt text](https://github.com/marcelagondro/Films-TinBurton/blob/main/img/Ed_Wood_film_poster.jpg "Github img")
+  
   # Ed Wood
 
   ## 1994
@@ -9,5 +11,4 @@
 - Martin Landau
 - Sarah Jessica Parker
 
-  ### Film
-  ![alt text](https://github.com/marcelagondro/Films-TinBurton/blob/main/img/Ed_Wood_film_poster.jpg "Github img")
+ 
